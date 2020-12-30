@@ -1,4 +1,0 @@
-recursive-include appJar/resources/icons *.png *.txt
-recursive-include appJar/lib *.py *.txt
-recursive-include appJar/lib/tkdnd2.8 *.tcl *.dll *.dylib *.so
-recursive-include appJar/examples *.py
